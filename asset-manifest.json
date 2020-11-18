@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/spelunky2bingo/static/css/main.7f14663d.chunk.css",
-    "main.js": "/spelunky2bingo/static/js/main.c1dae6a5.chunk.js",
-    "main.js.map": "/spelunky2bingo/static/js/main.c1dae6a5.chunk.js.map",
+    "main.js": "/spelunky2bingo/static/js/main.b0ca75d7.chunk.js",
+    "main.js.map": "/spelunky2bingo/static/js/main.b0ca75d7.chunk.js.map",
     "runtime-main.js": "/spelunky2bingo/static/js/runtime-main.e75d4560.js",
     "runtime-main.js.map": "/spelunky2bingo/static/js/runtime-main.e75d4560.js.map",
     "static/js/2.d91fd4fa.chunk.js": "/spelunky2bingo/static/js/2.d91fd4fa.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e75d4560.js",
     "static/js/2.d91fd4fa.chunk.js",
     "static/css/main.7f14663d.chunk.css",
-    "static/js/main.c1dae6a5.chunk.js"
+    "static/js/main.b0ca75d7.chunk.js"
   ]
 }
